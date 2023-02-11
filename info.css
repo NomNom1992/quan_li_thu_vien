@@ -1,0 +1,275 @@
+/* ---reset css--- */
+:root{
+    --primary-color: #A82614 ;
+}
+
+*{
+    box-sizing: inherit;
+    padding: 0;
+	margin: 0;
+}
+a{
+    text-decoration: none !important;
+}
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+img{
+    max-width: 100% !important;
+}
+
+.open{
+    display: flex !important;
+}
+.space{
+    width: 24px;
+    display: inline-block;
+}
+/* ---main--- */
+.header{
+    background-color: var(--primary-color);
+    width: 100%;
+    height: 133px;
+    position: relative;
+}
+.logo{
+    display: block;
+    position: absolute;
+    margin: 20px 0 0 12px;
+}
+.login{
+    position: absolute;
+    right: 20px;
+    top: 12px;
+    cursor: pointer;
+
+}
+.login a{
+    display: flex;
+    align-items: center;
+}
+.btn-login{
+    font-size: 15px;
+    margin-right: 8px;
+    padding: 8px 16px;
+    border-left: solid 1px #ccc;
+    border-right: solid 1px #ccc;
+    color: #fff;
+}
+.btn-login:hover{
+    background-color: #9c1e0e;
+}
+
+.wrong-login p{
+    margin-top: 4px;
+    color: red;
+    font-size: 12px;
+}
+
+.name-student{
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    color: #ffffff;
+    margin-right: 8px;
+
+}
+.avt-student{
+    width: 47px;
+    height: 47px;
+}
+.avt-student img{
+    width: 100%;
+}
+/* ---NAVBAR--- */
+.navbar{
+    display: flex;
+    position: absolute;
+    right: 16px;
+    bottom: 0;
+}
+.navbar li{
+    display: inline-block;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12px 8px;
+    cursor: pointer;
+    width: 112px;
+    text-align: center;
+}
+.navbar li:hover{
+    background-color: #851d0f;
+}
+.search-bar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    background-color: #771b0e;
+}
+.search-key{
+}
+#options {
+    width: 200px;
+    height: 36px;
+    font-size: 16px;
+    border-radius: 8px 0 0 8px;
+    background-color: rgb(250, 224, 224);
+    border-style: none;
+    margin-right: 2px;
+  }
+.search-input{
+    margin-right: 8px;
+  }
+  .get-search{
+  }
+  .input-search{
+    width: 700px;
+    height: 36px;
+    background-color: rgb(250, 224, 224);
+    border: none;
+    border-radius: 0px 8px 8px 0px;
+  }
+
+.search-btn button{
+    height: 36px;
+    width: 100px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    background-color: #ef7c00;
+}
+
+.search-btn button:hover{
+    background-color: #f1922b ;
+}
+
+
+h2{
+    margin: 8px 0 12px 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #A82614;
+}
+hr{
+    width: 100%;
+    background-color: #A82614;
+    height: 6px;
+    border-radius: 2px;
+}
+.container{
+    padding: 50px 50px;
+    position: relative;
+    display: block;
+}
+.personal-info{
+    padding-top: 4px;
+    width: 22%;
+    height: 456px;
+    background: linear-gradient(180deg, rgba(239, 238, 238, 0.7) 0%, rgba(201, 201, 201, 0.99) 100%);
+    display: inline-block;
+    border-radius: 12px;
+}
+
+.avt-img{
+    display: block;
+    width: 156px;
+    margin: 24px auto;
+    border-radius: 6px;
+}
+
+.block-info{
+    font-size: 15px;
+    font-weight: 600;
+    color: #333;
+}
+.block-info p{
+    padding: 6px 4px 6px 24px;
+}
+.year{
+    padding-bottom: 20px;
+}
+
+/* ---borow-info--- */
+.borrow-info{
+    width: 70%;
+    display: inline-block;
+    position: absolute;
+    padding-left: 16px;
+    padding-top: 4px;
+}
+
+.book-borrow{
+    background: linear-gradient(180deg, rgba(239, 238, 238, 0.7) 0%, rgba(201, 201, 201, 0.99) 100%);
+    border-radius: 12px;
+    margin-top: 16px;
+    position: relative;
+}
+.block-return{
+    width: 16%;
+    display: inline-block;
+}
+.block-return img{
+    display: block;
+    margin: 48px auto 52px auto;
+
+}
+.link-return{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(51, 51, 242);
+}
+.link-return p{
+    padding-bottom: 33px;
+}
+.link-return:hover{
+    opacity: 0.85;
+}
+.block-book-info{
+    width: 80%;
+    display: inline-block;
+    position: absolute;
+}
+.book-detail{
+    padding: 12px 0;
+}
+.book-name{
+    font-size: 18px;
+    padding: 8px 0 4px 0;
+}
+.book-author{
+    color: #666;
+    font-weight: bold;
+}
+.book-status{
+    padding-top: 12px;
+    font-size: 16px;
+    color: #A82614;
+    font-weight: bolder;
+}
+.table{
+    border: solid 1px #666 ;
+    border-bottom: none;
+}
+.table-headers{
+    background-color: #aaa;
+    border-radius: 6px 6px 0 0;
+    text-align: left;
+}
+.table-header{
+    padding-left: 4px;
+}
+.table-entry{
+    height: 44px;
+    font-size: 13px;
+}
