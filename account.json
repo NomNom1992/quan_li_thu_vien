@@ -1,0 +1,42 @@
+
+// {"accounts":
+	{
+		"id": 1,
+		"name": "Lê Thanh Nam",
+		"username": "20202020",
+		"password": "123456",
+		"mssv": 20202020,
+		"khoa": "K64",
+		"avt" : "/imgs/b7f63ae99c6c95b6b5d4931f1a0ce4bf.jpg",
+		"status": 0
+	};
+	{
+		"id": 2,
+		"name": "Kĩ thuật phần mềm",
+		"username": "admin@gmail.com",
+		"password": "123456",
+		"mssv": "ET3260",
+		"khoa": "K65",
+		"avt" : "/imgs/avtthay.jpg",
+		"status": 0
+	};
+	{
+		"id": 3,
+		"name": "Đỗ văn Hinh",
+		"username": "20203424",
+		"password": "123456",
+		"mssv": 20203424,
+		"khoa": "K65",
+		"avt" : "/imgs/b7f63ae99c6c95b6b5d4931f1a0ce4bf.jpg",
+		"status": 0
+	};
+	{
+		"id": 4,
+		"name": "Bành Hà Nguyên",
+		"username": "20203747",
+		"password": "123456",
+		"mssv": 20203747,
+		"khoa": "K65",
+		"avt" : "/imgs/b7f63ae99c6c95b6b5d4931f1a0ce4bf.jpg",
+		"status": 0
+	};
