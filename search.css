@@ -1,0 +1,80 @@
+.book-borrow{
+    background: linear-gradient(180deg, rgba(239, 238, 238, 0.7) 0%, rgba(201, 201, 201, 0.99) 100%);
+    border-radius: 12px;
+    margin-top: 16px;
+    position: relative;
+}
+.block-return{
+    width: 16%;
+    display: inline-block;
+}
+.block-return img{
+    display: block;
+    margin: 48px auto 52px auto;
+
+}
+.link-return{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(51, 51, 242);
+}
+.link-return p{
+    padding-bottom: 33px;
+}
+.link-return:hover{
+    opacity: 0.85;
+}
+.block-book-info{
+    width: 80%;
+    display: inline-block;
+    position: absolute;
+}
+.book-detail{
+    padding: 12px 0;
+}
+.book-name{
+    font-size: 18px;
+    padding: 8px 0 4px 0;
+}
+.book-author{
+    color: #666;
+    font-weight: bold;
+}
+.book-status{
+    padding-top: 12px;
+    font-size: 16px;
+    color: #A82614;
+    font-weight: bolder;
+}
+.table{
+    border: solid 1px #666 ;
+    border-bottom: none;
+}
+.table-headers{
+    background-color: #aaa;
+    border-radius: 6px 6px 0 0;
+    text-align: left;
+}
+.table-header{
+    padding-left: 4px;
+}
+.table-entry{
+    height: 44px;
+    font-size: 13px;
+}
+
+.container-search{
+    width: 70%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.book-order{
+    padding-top: 12px;
+    font-size: 16px;
+    color: blue;
+    font-weight: bolder;
+    cursor: pointer;
+}

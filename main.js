@@ -50,7 +50,15 @@ function checkLogin(){
         console.log(accounts)
         for (let i = 0; i < accounts.length; i++) {
             if(code.value == accounts[i].username && passWord.value == accounts[i].password ){
-                // hideModalAndChangeLogin()      
+                // hideModalAndChangeLogin()
+                // const fs = require("fs")
+                // const file = fs.createWriteStream("online.txt")
+                // file.write(accounts[i].name)
+                // file.write(accounts[i].mssv)
+                // file.write(accounts[i].khoa)
+                // file.write(accounts[i].avt)
+                
+                
                 modal.classList.remove('open')
                 login.removeChild(login.firstChild)
                 login.innerHTML = `

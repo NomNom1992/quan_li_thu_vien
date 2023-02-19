@@ -1,0 +1,177 @@
+[
+    {
+      "title": "Động lực học giải tích: Động lực học của các hệ cơ và hệ cơ-điện",
+      "author": "",
+      "id": "000000306637",
+      "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+      "date": "2017-08-21"
+    },
+    {
+      "title": "Giải tích I: Phép tính vi phân và tích phân của hàm nhiều biến",
+      "author": "Trần, Bình",
+      "id": "000000040330",
+      "location": "Viện Cơ khí",
+      "date": "2009-03-28"
+    },
+    {
+      "title": "Giáo trình giải tích toán học.",
+      "author": "Vũ, Tuấn",
+      "id": "000000302713",
+      "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+      "date": "2006-11-17"
+    },
+    {
+      "title": "Bài tập giải tích hàm",
+      "author": "Nguyễn, Xuân Liêm",
+      "id": "000000304761",
+      "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+      "date": "2015-02-06"
+    },
+    {
+      "title": "Bài tập giải tích Vectơ",
+      "author": "Nguyễn, Xuân Liêm",
+      "id": "000000302243",
+      "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+      "date": "2008-09-14"
+    },
+    {
+      "title": "Nghiên cứu thiết kế và mô phỏng anten 4G theo chuẩn LTE-A dùng cho trạm BTS",
+      "author": "Nguyễn, Trung Hiếu",
+      "id": "000000312385",
+      "location": "Phòng đọc Luận văn - Luận án (P.313)",
+      "date": "2018-06-29"
+    },
+    {
+      "title": "Xử lý tín hiệu số và ứng dụng trong âm thanh số",
+      "author": "Dương, Văn Thăng",
+      "id": "000000297114",
+      "location": "Phòng đọc Luận văn - Luận án (P.313)",
+      "date": "2013-05-01"
+    },
+    {
+      "title": "Giải bài tập xử lý tín hiệu số và Matlab",
+      "author": "Trần, Thị Thục Linh",
+      "id": "000000281304",
+      "location": "Phòng đọc chuyên ngành TK-Z (P.526)",
+      "date": "2012-08-02"
+    },
+    {
+      "title": "Xử lý tín hiệu số kiểm soát lỗi trong truyền thoại",
+      "author": "Đào, Huy Du",
+      "id":"00000156137",
+      "location": "Phòng đọc chuyên ngành TK-Z (P.526)",
+      "date": "2012-08-02"
+    },
+    {
+        "title": "Động lực học giải tích: Động lực học của các hệ cơ và hệ cơ-điện",
+        "author": "",
+        "id": "000000306637",
+        "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+        "date": "2017-08-21"
+    },
+    {
+        "title": "Giải tích I: Phép tính vi phân và tích phân của hàm nhiều biến",
+        "author": "Trần, Bình",
+        "id": "000000040330",
+        "location": "Viện Cơ khí",
+        "date": "2009-03-28"
+    },
+    {
+        "title": "Giáo trình giải tích toán học.",
+        "author": "Vũ, Tuấn",
+        "id": "000000302713",
+        "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+        "date": "2006-11-17"
+    },
+    {
+        "title": "Bài tập giải tích hàm",
+        "author": "Nguyễn, Xuân Liêm",
+        "id": "000000304761",
+        "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+        "date": "2015-02-06"
+    },
+    {
+        "title": "Bài tập giải tích Vectơ",
+        "author": "Nguyễn, Xuân Liêm",
+        "id": "000000302243",
+        "location": "Phòng đọc chuyên ngành Q-S (P.411)",
+        "date": "2008-09-14"
+    },
+    {
+        "title": "Nghiên cứu thiết kế và mô phỏng anten 4G theo chuẩn LTE-A dùng cho trạm BTS",
+        "author": "Nguyễn, Trung Hiếu",
+        "id": "000000312385",
+        "location": "Phòng đọc Luận văn - Luận án (P.313)",
+        "date": "2018-06-29"
+    },
+    {
+        "title": "Xử lý tín hiệu số và ứng dụng trong âm thanh số",
+        "author": "Dương, Văn Thăng",
+        "id": "000000297114",
+        "location": "Phòng đọc Luận văn - Luận án (P.313)",
+        "date": "2013-05-01"
+    },
+    {
+        "title": "Giải bài tập xử lý tín hiệu số và Matlab",
+        "author": "Trần, Thị Thục Linh",
+        "id": "000000281304",
+        "location": "Phòng đọc chuyên ngành TK-Z (P.526)",
+        "date": "2012-08-02"
+    },
+    {
+        "title": "Xử lý tín hiệu số kiểm soát lỗi trong truyền thoại",
+        "author": "Đào, Huy Du",
+        "id":"000000129015",
+        "location":"Phòng đọc Luận văn - Luận án (P.313)",
+        "date": "2012-08-02"
+    },
+    {
+        "title": "Nhập môn xử lý tín hiệu số",
+        "author": "Nguyễn, Lâm Đông",
+        "id":"000000156114",
+        "location":"Phòng đọc chuyên ngành TK-Z (P.526)",
+        "date": "2012-08-02"
+    },
+    {
+        "title": "Cấu trúc và lập trình các hệ xử lý tín hiệu số",
+        "author": "Nguyễn, Tăng Cường",
+        "id":"000000156118",
+        "location":"Phòng đọc chuyên ngành TK-Z (P.526)",
+        "date": "2014"
+    },
+    {
+        "title": "Lý thuyết và bài tập xử lý tín hiệu số",
+        "author": "Tống, Văn On",
+        "id":"00000156137",
+        "location":"Phòng đọc chuyên ngành TK-Z (P.526)",
+        "date": ""
+    },
+    {
+        "title": "Phát hiện và phòng chống xâm nhập trái phép mạng máy tính",
+        "author": "Nguyễn, Đình Tình",
+        "id":"000000310889",
+        "location":"Phòng đọc Luận văn - Luận án (P.313)",
+        "date": "2010"
+    },
+    {
+        "title": "Giáo trình nhập môn mạng máy tính",
+        "author": "Hồ, Đắc Phương",
+        "id":"000000302692",
+        "location":"Phòng đọc chuyên ngành TK-Z (P.526)",
+        "date": "2009"
+    },
+    {
+        "title": "Giáo trình nguyên lý hệ điều hành",
+        "author": "Hồ, Đắc Phương",
+        "id":"000000304506",
+        "location":"Phòng đọc chuyên ngành Q-S (P.411)",
+        "date": ""
+    },
+    {
+        "title": "Hệ điều hành",
+        "author": "Nguyễn, Thanh Hiên",
+        "id":"000000313864",
+        "location":"Phòng đọc chuyên ngành Q-S (P.411)",
+        "date": ""
+    }
+]
